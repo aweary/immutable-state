@@ -1,0 +1,19 @@
+{
+  "name": "immutable-state",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-core": "^6.24.1",
+    "babel-jest": "^19.0.0",
+    "babel-plugin-transform-object-rest-spread": "^6.23.0",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-react": "^6.24.1",
+    "jest": "^19.0.2",
+    "react": "^15.5.4",
+    "react-dom": "^15.5.4"
+  },
+  "dependencies": {
+    "lodash.isfunction": "^3.0.8"
+  }
+}

@@ -1,0 +1,33 @@
+Arguments: 
+  /Users/brandondail/.nvm/versions/node/v7.7.4/bin/node /Users/brandondail/.nvm/versions/node/v7.7.4/bin/yarn add --dev jest
+
+PATH: 
+  /Users/brandondail/.opam/reason/bin:/Users/brandondail/.nvm/versions/node/v7.7.4/bin:/Users/brandondail/.local/bin:/Users/brandondail/.cabal/bin:/Applications/ghc-7.10.3.app/Contents/bin:/Users/brandondail/.cargo/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/brandondail/.local/bin:/Users/brandondail/.cabal/bin:/Applications/ghc-7.10.3.app/Contents/bin:/Users/brandondail/.opam/reason/bin:/Users/brandondail/.cargo/bin:./node_modules/.bin:/Users/brandondail/Library/Python/2.7/bin:/Users/brandondail/.fzf/bin:./node_modules/.bin:/Users/brandondail/Library/Python/2.7/bin
+
+Yarn version: 
+  0.22.0
+
+Node version: 
+  7.7.4
+
+Platform: 
+  darwin x64
+
+npm manifest: 
+  {
+    "name": "immutable-state",
+    "version": "1.0.0",
+    "main": "index.js",
+    "license": "MIT"
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
+
+Trace: 
+  Error: getaddrinfo ENOTFOUND npme.walmart.com npme.walmart.com:443
+      at errnoException (dns.js:28:10)
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:73:26)
